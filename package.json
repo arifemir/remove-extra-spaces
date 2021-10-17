@@ -1,0 +1,21 @@
+{
+  "name": "object-string-property-trimmer",
+  "version": "1.0.0",
+  "description": "npm package uses for object and plain string trim",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arifemir/object-string-property-trimmer.git"
+  },
+  "keywords": ["object-trim", "multiple-space-reduce-one", "trim", "input-trim", "string-multiple-space"],
+  "author": "Arif Emir Arslanturk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arifemir/object-string-property-trimmer/issues"
+  },
+  "homepage": "https://github.com/arifemir/object-string-property-trimmer#readme"
+}
