@@ -1,0 +1,19 @@
+{
+  "globals": {
+    "ts-jest": {
+      "tsconfigFile": "tsconfig.json"
+    }
+  },
+  "moduleFileExtensions": [
+    "ts",
+    "js"
+  ],
+  "coverageReporters": [
+    "json-summary",
+    "html"
+  ],
+  "transform": {
+    "^.+\\.tsx?$": "ts-jest"
+  },
+  "testEnvironment": "node"
+}
