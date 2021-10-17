@@ -1,7 +1,7 @@
 # remove-extra-spaces
 if you need to remove extra spaces from object properties and string variables you can use this package
 
-###Usage
+### Usage
 ```js
 //objectTrim function using
 let object = {
