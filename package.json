@@ -1,6 +1,6 @@
 {
-  "name": "object-string-property-trimmer",
-  "version": "1.0.2",
+  "name": "remove-extra-spaces",
+  "version": "1.0.3",
   "description": "npm package uses for object and plain string trim",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arifemir/object-string-property-trimmer.git"
+    "url": "https://github.com/arifemir/remove-extra-spaces.git"
   },
   "keywords": [
     "object-trim",
