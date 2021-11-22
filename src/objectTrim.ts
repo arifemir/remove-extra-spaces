@@ -1,6 +1,6 @@
 import { stringTrim } from '.'
 
-const objectTrim = (object: object): object => {
+const objectTrim = (object: {[key: string]: any}): {[key: string]: any} => {
   return Object.keys(object).reduce((acc, key) => {
     if (typeof object[key] === 'string')
       return { ...acc, [key]: stringTrim(object[key]) }
