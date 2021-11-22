@@ -1,8 +1,9 @@
 {
   "name": "object-string-property-trimmer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "npm package uses for object and plain string trim",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "test": "jest --forceExit --coverage --verbose --detectOpenHandles",
     "prepublish": "npm test && npm build",
